@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Hero Section */
+
+.hero{
+    background-image:url(bg.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 100px;
+    height: 500px;
+}
+.hero button{
+    margin-top: 20px;
+    border: solid 2px ;
+    border-radius: 6px;
+    height: 35px;
+    width: 100px;
+}
+.hero p{
+    padding-top: 20px;
+}
